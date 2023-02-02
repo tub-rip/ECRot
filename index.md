@@ -13,13 +13,13 @@ The Event Camera Rotation Dataset (ECRot) is an event camera dataset designed fo
 
 ### Scenes
 
-- Brandenburg Gate
+- [Brandenburg Gate](https://en.wikipedia.org/wiki/Brandenburg_Gate)
 ![imagen](images/brandenburg_gate_pano_RGB.jpg)
 
-- Charlottenburg Palace
+- [Charlottenburg Palace](https://de.wikipedia.org/wiki/Schloss_Charlottenburg)
 ![imagen](images/charlottenburg_palace_pano_RGB.jpg)
 
-- Victory Column
+- [Victory Column](https://en.wikipedia.org/wiki/Berlin_Victory_Column)
 
 - TU Berlin Main Building
 
