@@ -1,4 +1,4 @@
-# Event Camera Rotation Dataset (ECRot Dataset)
+# Event Camera Rotation Dataset (ECRot)
 A event camera dataset for rotational motion study
 
 ## News
