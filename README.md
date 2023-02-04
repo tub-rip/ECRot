@@ -1,13 +1,13 @@
 # Event Camera Rotation Dataset (ECRot)
 An event camera dataset for rotational motion study
 
-## News
+<!-- ## News
 
-- TODO
+- TODO -->
 
 ## About
 
-The Event Camera Rotation Dataset (ECRot) is an event camera dataset designed for the development of event-based rotational motion related algorithms. ECRot contains totally ten sequences recorded with a DVXplorer (VGA resolution: 640 X 480 pixels) from [iniVation](https://inivation.com/). We provide all sequences in rosbag files that contain events using [dvs_msgs/EventArray](https://github.com/uzh-rpg/rpg_dvs_ros/blob/master/dvs_msgs/msg/EventArray.msg) message types, and IMU data using [sensor_msgs/Imu](http://docs.ros.org/en/api/sensor_msgs/html/msg/Imu.html) message types respectively. The calibration files are provided in yaml files. We generate rotational motion of the event camera in two modes: Motorized mount (7 sequences) and Hand-held (3 sequences). The Motorized mount rotates the event camera approximately in a horizontal plane, while the rotation center still deviates a little from the camera's optical center. For the Hand-held cases, there are some irregular translations. To show the advantages of event cameras over standard cameras, these sequences contain challenging illumination conditions (e.g., looking directly at the sun, reflections in the river and windows) as well as dynamic objects (e.g., moving pedestrians, bicycles, cars, leaves and water on the river).
+The Event Camera Rotation Dataset (ECRot) is a VGA-resolution event camera dataset designed for the development of event-based rotational motion related algorithms. ECRot contains ten sequences recorded with a DVXplorer (640 x 480 pixels) from [iniVation](https://inivation.com/). We provide all sequences in ROSbag files that contain events using [dvs_msgs/EventArray](https://github.com/uzh-rpg/rpg_dvs_ros/blob/master/dvs_msgs/msg/EventArray.msg) message types, and IMU data using [sensor_msgs/Imu](http://docs.ros.org/en/api/sensor_msgs/html/msg/Imu.html) message types respectively. The camera calibration files are provided in yaml files. We generate rotational motion of the event camera in two modes: Motorized mount (7 sequences) and Hand-held (3 sequences). The motorized mount rotates the event camera approximately around its vertical axis, while the rotation center slightly deviates from the camera's optical center. In the hand-held sequences, there are also some minor unavoidable translations. To show the advantages of event cameras over standard cameras, these sequences contain challenging illumination conditions (e.g., looking directly at the sun, reflections in the river and windows) as well as dynamic objects (e.g., moving pedestrians, bicycles, cars, leaves and water on the river).
 
 ## Sequences
 
@@ -58,7 +58,7 @@ The Event Camera Rotation Dataset (ECRot) is an event camera dataset designed fo
 | [River](https://drive.google.com/drive/folders/1USBO6u9tgF-YVMqNABKMDEQwa3peOlH5?usp=share_link) | Hand-held | 5.5 | random |
 | [Bridge](https://drive.google.com/drive/folders/1BArPM4voy290iZDDwnoOaBlLZ-YdTQqH?usp=share_link) | Hand-held | 7.5 | random |
 
-### Calibration
+### Intrinsic calibration of the event camera:
 
 - [Motorized mount](https://drive.google.com/file/d/1NqmTqD_S-3Ff0YsgIvEJdnzrZ4Lu0lNy/view?usp=share_link)
 
@@ -70,4 +70,4 @@ The Event Camera Rotation Dataset (ECRot) is an event camera dataset designed fo
 
 ## License
 
- - TODO
+- Coming soon...
