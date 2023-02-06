@@ -35,36 +35,47 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 
 ### Scenes (from an RGB frame-based camera)
 
+The panoramas captured by an iPhone 11 and the panoramic Images of Warped Events (IWEs) produced by CMax-SLAM are presented as below.
+
 - [Brandenburg Gate](https://en.wikipedia.org/wiki/Brandenburg_Gate)
 ![imagen](images/panoramas/brandenburg_gate.jpg)
-![imagen](images/panoramas/brandenburg_gate.jpg)
+![imagen](images/exp_map/gate_pano_IWE_expscale-100.png)
 
 - [Charlottenburg Palace](https://de.wikipedia.org/wiki/Schloss_Charlottenburg)
 ![imagen](images/panoramas/charlottenburg_palace.jpg)
+![imagen](images/exp_map/palace_pano_IWE_expscale-100.png)
 
 - [Victory Column](https://en.wikipedia.org/wiki/Berlin_Victory_Column)
 ![imagen](images/panoramas/victory_column.jpg)
+![imagen](images/exp_map/victory_column_0-3.9_-30_exp_30.png)
 
 - TU Berlin Main Building
 ![imagen](images/panoramas/tub_main_building.jpg)
+![imagen](images/exp_map/main_building_pano_IWE_expscale-100.png)
 
 - TU Berlin MAR Building
 ![imagen](images/panoramas/tub_mar_building.jpg)
+![imagen](images/exp_map/mar_building_0-3.8_-30_exp_50.png)
 
 - Square Center
 ![imagen](images/panoramas/square_center.jpg)
+![imagen](images/exp_map/square_center_0-8_-90_exp_100.png)
 
 - Square Side
 ![imagen](images/panoramas/square_side.jpg)
+![imagen](images/exp_map/square_side_0-7.5_-90_exp_100.png)
 
 - Crossroad
 ![imagen](images/panoramas/crossroad.jpg)
+![imagen](images/exp_map/crossroad_pano_IWE_expscale-100.png)
 
 - River
 ![imagen](images/panoramas/river.jpg)
+![imagen](images/exp_map/river_0-5_0_exp_100.png)
 
 - Bridge
 ![imagen](images/panoramas/bridge.jpg)
+![imagen](images/exp_map/bridge_0-7_0_exp_100.png)
 
 ## Acknowledgements
 Ms. Nan Cai (for assistance on the motorized sequences) and Mr. Yunfan Yang (for assistance with the hand-held sequences).
