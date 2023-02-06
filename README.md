@@ -38,7 +38,7 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 The panoramas captured by an iPhone 11 and the panoramic Images of Warped Events (IWEs) produced by CMax-SLAM are presented as below.
 
 - [Brandenburg Gate](https://en.wikipedia.org/wiki/Brandenburg_Gate)
-![imagen](images/panoramas/brandenburg_gate.jpg)
+![imagen]{:height="100px" width="400px"}(images/panoramas/brandenburg_gate.jpg)
 ![imagen](images/exp_map/gate_pano_IWE_expscale-100.png)
 
 - [Charlottenburg Palace](https://de.wikipedia.org/wiki/Schloss_Charlottenburg)
