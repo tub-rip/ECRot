@@ -23,7 +23,7 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 | [TU Berlin MAR Building](https://drive.google.com/drive/folders/1uX4DrY5YoCCyEClXmNiE90_fpoZIrED6?usp=share_link) | Motorized mount | 4.0 | $\approx$ 90 | 421 MB |
 | [Square Center](https://drive.google.com/drive/folders/18gVBZSuy2qbyLIwg0kNjVy3_1gkuslia?usp=share_link) | Motorized mount  | 8.8 | 360 | 1.37 GB |
 | [Square Side](https://drive.google.com/drive/folders/14hbk54NcUG6uOrsdKqaOzDprQyaxyvNX?usp=share_link) | Motorized mount | 8.0 | 360 | 1.46 GB |
-| [Crossroad](https://drive.google.com/drive/folders/1skZ2LNLBMXbtJaWzy2ijKtlHXYZ9SwAA?usp=share_link) | Hand-held | 10.2 | 360 | 792 MB |
+| [Crossroad](https://drive.google.com/file/d/1misnorq_iyK-uMfZWadDMu0RxF10dMN9/view?usp=share_link) | Hand-held | 10.2 | 360 | 792 MB |
 | [River](https://drive.google.com/drive/folders/1USBO6u9tgF-YVMqNABKMDEQwa3peOlH5?usp=share_link) | Hand-held | 5.5 | random | 862 MB |
 | [Bridge](https://drive.google.com/drive/folders/1BArPM4voy290iZDDwnoOaBlLZ-YdTQqH?usp=share_link) | Hand-held | 7.5 | random | 1.08 GB |
 
