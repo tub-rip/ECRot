@@ -56,7 +56,7 @@ The panoramas used to generate synthetic sequences and the panoramic Images of W
 
 - Flying room
 ![imagen](images/panoramas/synth_data/flyring_room.jpg)
-![imagen](images/iwe/synth_data/flyring_room.png)
+![imagen](images/iwe/synth_data/flying_room.png)
 
 - Bicycle
 ![imagen](images/panoramas/synth_data/bicycle.jpg)
