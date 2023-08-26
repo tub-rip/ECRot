@@ -12,7 +12,18 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 
 ## Sequences
 
-### Description
+### Synthetic data
+
+| Sequence | Camera model | Duration [s] | File size |
+| :-----| :-----| ----: | ----: |
+| [Flying room]() | DVS128 | 2.5 | 47.8 MB |
+| [Bicycle]() | DAVIS240C | 5.0 | 264.3 MB |
+| [City]() | DAVIS240C | 5.0 | 1.0 GB |
+| [Street]() | DAVIS240C | 5.0 | 699.1 MB |
+| [Town]() | DAVIS240C | 5.0 | 743.6 MB |
+| [Bay]() | DAVIS240C | 5.0 | 827.7 MB |
+
+### Real-world data
 
 | Sequence | Setup | Duration [s] | Rotation range [deg] | File size |
 | :-----| :-----| ----: | ----: | ----: |
@@ -33,49 +44,77 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 
 - [Hand-held](https://drive.google.com/file/d/1c12Y8s3klhSWhw8D5xvoi7zOqdrMDt4m/view?usp=share_link)
 
-### Scenes (from an RGB frame-based camera)
+### Synthetic scenes (from the Internet)
+
+The panoramas used to generate synthetic sequences and the panoramic Images of Warped Events (IWEs) produced by CMax-SLAM are presented as below.
+
+- Flying room
+![imagen](images/panoramas/synth_data/flyring_room.jpg)
+![imagen](images/iwe/synth_data/flyring_room.jpg)
+
+- Bicycle
+![imagen](images/panoramas/synth_data/bicycle.jpg)
+![imagen](images/iwe/synth_data/bicycle.jpg)
+
+- City
+![imagen](images/panoramas/synth_data/city.jpg)
+![imagen](images/iwe/synth_data/city.jpg)
+
+- Street
+![imagen](images/panoramas/synth_data/street.jpg)
+![imagen](images/iwe/synth_data/street.jpg)
+
+- Town
+![imagen](images/panoramas/synth_data/town.jpg)
+![imagen](images/iwe/synth_data/town.jpg)
+
+- Bay
+![imagen](images/panoramas/synth_data/bay.jpg)
+![imagen](images/iwe/synth_data/bay.jpg)
+
+### Real-world scenes (from an RGB frame-based camera)
 
 The panoramas captured by an iPhone 11 and the panoramic Images of Warped Events (IWEs) produced by CMax-SLAM are presented as below.
 
 - [Brandenburg Gate](https://en.wikipedia.org/wiki/Brandenburg_Gate)
-![gate_rgb_pano](images/panoramas/brandenburg_gate.jpg)
-![imagen](images/exp_map/gate_pano_IWE_expscale-100.png)
+![imagen](images/panoramas/real_data/brandenburg_gate.jpg)
+![imagen](images/iwe/real_data/brandenburg_gate.jpg)
 
 - [Charlottenburg Palace](https://de.wikipedia.org/wiki/Schloss_Charlottenburg)
-![imagen](images/panoramas/charlottenburg_palace.jpg)
-![imagen](images/exp_map/palace_pano_IWE_expscale-100.png)
+![imagen](images/panoramas/real_data/charlottenburg_palace.jpg)
+![imagen](images/iwe/real_data/charlottenburg_palace.jpg)
 
 - [Victory Column](https://en.wikipedia.org/wiki/Berlin_Victory_Column)
-![imagen](images/panoramas/victory_column.jpg)
-![imagen](images/exp_map/victory_column_0-3.9_-30_exp_30.png)
+![imagen](images/panoramas/real_data/victory_column.jpg)
+![imagen](images/iwe/real_data/victory_column.jpg)
 
 - TU Berlin Main Building
-![imagen](images/panoramas/tub_main_building.jpg)
-![imagen](images/exp_map/main_building_pano_IWE_expscale-100.png)
+![imagen](images/panoramas/real_data/tub_main_building.jpg)
+![imagen](images/iwe/real_data/tub_main_building.jpg)
 
 - TU Berlin MAR Building
-![imagen](images/panoramas/tub_mar_building.jpg)
-![imagen](images/exp_map/mar_building_0-3.8_-30_exp_50.png)
+![imagen](images/panoramas/real_data/tub_mar_building.jpg)
+![imagen](images/iwe/real_data/tub_mar_building.jpg)
 
 - Square Center
-![imagen](images/panoramas/square_center.jpg)
-![imagen](images/exp_map/square_center_0-8_-90_exp_100.png)
+![imagen](images/panoramas/real_data/square_center.jpg)
+![imagen](images/iwe/real_data/square_center.jpg)
 
 - Square Side
-![imagen](images/panoramas/square_side.jpg)
-![imagen](images/exp_map/square_side_0-7.5_-90_exp_100.png)
+![imagen](images/panoramas/real_data/square_side.jpg)
+![imagen](images/iwe/real_data/square_side.jpg)
 
 - Crossroad
-![imagen](images/panoramas/crossroad.jpg)
-![imagen](images/exp_map/crossroad_pano_IWE_expscale-100.png)
+![imagen](images/panoramas/real_data/crossroad.jpg)
+![imagen](images/iwe/real_data/crossroad.jpg)
 
 - River
-![imagen](images/panoramas/river.jpg)
-![imagen](images/exp_map/river_0-5_0_exp_100.png)
+![imagen](images/panoramas/real_data/river.jpg)
+![imagen](images/iwe/real_data/river.jpg)
 
 - Bridge
-![imagen](images/panoramas/bridge.jpg)
-![imagen](images/exp_map/bridge_0-7_0_exp_100.png)
+![imagen](images/panoramas/real_data/birdge.jpg)
+![imagen](images/iwe/real_data/birdge.jpg)
 
 ## Acknowledgements
 Ms. Nan Cai (for assistance on the motorized sequences) and Mr. Yunfan Yang (for assistance with the hand-held sequences).
