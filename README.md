@@ -40,10 +40,15 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 
 ### Intrinsic calibration of the event camera:
 
-- Real-world data
-  * [Motorized mount](https://drive.google.com/file/d/1NqmTqD_S-3Ff0YsgIvEJdnzrZ4Lu0lNy/view?usp=share_link)
+- Synth1 data
+  * [DVS128-synthetic]()
 
-  * [Hand-held](https://drive.google.com/file/d/1c12Y8s3klhSWhw8D5xvoi7zOqdrMDt4m/view?usp=share_link)
+  * [DAVIS240C-synthetic]()
+
+- Real-world data
+  * [DVX-motorized_mount](https://drive.google.com/file/d/1NqmTqD_S-3Ff0YsgIvEJdnzrZ4Lu0lNy/view?usp=share_link)
+
+  * [DVX-handheld](https://drive.google.com/file/d/1c12Y8s3klhSWhw8D5xvoi7zOqdrMDt4m/view?usp=share_link)
 
 ### Synthetic scenes (from the Internet)
 
@@ -51,27 +56,27 @@ The panoramas used to generate synthetic sequences and the panoramic Images of W
 
 - Flying room
 ![imagen](images/panoramas/synth_data/flyring_room.jpg)
-![imagen](images/iwe/synth_data/flyring_room.jpg)
+![imagen](images/iwe/synth_data/flyring_room.png)
 
 - Bicycle
 ![imagen](images/panoramas/synth_data/bicycle.jpg)
-![imagen](images/iwe/synth_data/bicycle.jpg)
+![imagen](images/iwe/synth_data/bicycle.png)
 
 - City
 ![imagen](images/panoramas/synth_data/city.jpg)
-![imagen](images/iwe/synth_data/city.jpg)
+![imagen](images/iwe/synth_data/city.png)
 
 - Street
 ![imagen](images/panoramas/synth_data/street.jpg)
-![imagen](images/iwe/synth_data/street.jpg)
+![imagen](images/iwe/synth_data/street.png)
 
 - Town
 ![imagen](images/panoramas/synth_data/town.jpg)
-![imagen](images/iwe/synth_data/town.jpg)
+![imagen](images/iwe/synth_data/town.png)
 
 - Bay
 ![imagen](images/panoramas/synth_data/bay.jpg)
-![imagen](images/iwe/synth_data/bay.jpg)
+![imagen](images/iwe/synth_data/bay.png)
 
 ### Real-world scenes (from an RGB frame-based camera)
 
@@ -114,7 +119,7 @@ The panoramas captured by an iPhone 11 and the panoramic Images of Warped Events
 ![imagen](images/iwe/real_data/river.jpg)
 
 - Bridge
-![imagen](images/panoramas/real_data/birdge.jpg)
+![imagen](images/panoramas/real_data/bridge.jpg)
 ![imagen](images/iwe/real_data/birdge.jpg)
 
 ## Acknowledgements
