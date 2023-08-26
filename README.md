@@ -120,7 +120,7 @@ The panoramas captured by an iPhone 11 and the panoramic Images of Warped Events
 
 - Bridge
 ![imagen](images/panoramas/real_data/bridge.jpg)
-![imagen](images/iwe/real_data/birdge.jpg)
+![imagen](images/iwe/real_data/bridge.jpg)
 
 ## Acknowledgements
 Ms. Nan Cai (for assistance on the motorized sequences) and Mr. Yunfan Yang (for assistance with the hand-held sequences).
