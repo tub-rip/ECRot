@@ -40,9 +40,10 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 
 ### Intrinsic calibration of the event camera:
 
-- [Motorized mount](https://drive.google.com/file/d/1NqmTqD_S-3Ff0YsgIvEJdnzrZ4Lu0lNy/view?usp=share_link)
+- Real-world data
+  * [Motorized mount](https://drive.google.com/file/d/1NqmTqD_S-3Ff0YsgIvEJdnzrZ4Lu0lNy/view?usp=share_link)
 
-- [Hand-held](https://drive.google.com/file/d/1c12Y8s3klhSWhw8D5xvoi7zOqdrMDt4m/view?usp=share_link)
+  * [Hand-held](https://drive.google.com/file/d/1c12Y8s3klhSWhw8D5xvoi7zOqdrMDt4m/view?usp=share_link)
 
 ### Synthetic scenes (from the Internet)
 
