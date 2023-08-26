@@ -40,7 +40,7 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 
 ### Intrinsic calibration of the event camera:
 
-- Synth1 data
+- Synthetic data
   * [DVS128-synthetic](https://drive.google.com/file/d/1Cd_CvFuUTqtJnRkMbV2X4b-4vEC6oRmo/view?usp=sharing)
 
   * [DAVIS240C-synthetic](https://drive.google.com/file/d/1Z9i30YX0PjeOq8b8kTxdP05MXX3ForA7/view?usp=sharing)
@@ -50,7 +50,7 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 
   * [DVX-handheld](https://drive.google.com/file/d/1c12Y8s3klhSWhw8D5xvoi7zOqdrMDt4m/view?usp=sharing)
 
-### Synthetic scenes (from the Internet)
+### Synthetic scenes ([from the Internet](https://www.flickr.com/groups/equirectangular/pool/))
 
 The panoramas used to generate synthetic sequences and the panoramic Images of Warped Events (IWEs) produced by CMax-SLAM are presented as below.
 
