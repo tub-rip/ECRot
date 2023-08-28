@@ -81,43 +81,43 @@ The panoramas captured by an iPhone 11 and the panoramic Images of Warped Events
 
 - [Brandenburg Gate](https://en.wikipedia.org/wiki/Brandenburg_Gate)
 ![imagen](images/panoramas/real_data/brandenburg_gate.jpg)
-![imagen](images/iwe/real_data/brandenburg_gate.jpg)
+![imagen](images/iwe/real_data/brandenburg_gate.png)
 
 - [Charlottenburg Palace](https://de.wikipedia.org/wiki/Schloss_Charlottenburg)
 ![imagen](images/panoramas/real_data/charlottenburg_palace.jpg)
-![imagen](images/iwe/real_data/charlottenburg_palace.jpg)
+![imagen](images/iwe/real_data/charlottenburg_palace.png)
 
 - [Victory Column](https://en.wikipedia.org/wiki/Berlin_Victory_Column)
 ![imagen](images/panoramas/real_data/victory_column.jpg)
-![imagen](images/iwe/real_data/victory_column.jpg)
+![imagen](images/iwe/real_data/victory_column.png)
 
 - TU Berlin Main Building
 ![imagen](images/panoramas/real_data/tub_main_building.jpg)
-![imagen](images/iwe/real_data/tub_main_building.jpg)
+![imagen](images/iwe/real_data/tub_main_building.png)
 
 - TU Berlin MAR Building
 ![imagen](images/panoramas/real_data/tub_mar_building.jpg)
-![imagen](images/iwe/real_data/tub_mar_building.jpg)
+![imagen](images/iwe/real_data/tub_mar_building.png)
 
 - Square Center
 ![imagen](images/panoramas/real_data/square_center.jpg)
-![imagen](images/iwe/real_data/square_center.jpg)
+![imagen](images/iwe/real_data/square_center.png)
 
 - Square Side
 ![imagen](images/panoramas/real_data/square_side.jpg)
-![imagen](images/iwe/real_data/square_side.jpg)
+![imagen](images/iwe/real_data/square_side.png)
 
 - Crossroad
 ![imagen](images/panoramas/real_data/crossroad.jpg)
-![imagen](images/iwe/real_data/crossroad.jpg)
+![imagen](images/iwe/real_data/crossroad.png)
 
 - River
 ![imagen](images/panoramas/real_data/river.jpg)
-![imagen](images/iwe/real_data/river.jpg)
+![imagen](images/iwe/real_data/river.png)
 
 - Bridge
 ![imagen](images/panoramas/real_data/bridge.jpg)
-![imagen](images/iwe/real_data/bridge.jpg)
+![imagen](images/iwe/real_data/bridge.png)
 
 ## Acknowledgements
 Ms. Nan Cai (for assistance on the motorized sequences) and Mr. Yunfan Yang (for assistance with the hand-held sequences).
