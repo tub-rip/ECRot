@@ -20,7 +20,7 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 | [Town](https://drive.google.com/drive/folders/1YQE0CnuUfdWj-iDtff9zhu2O1V4o7NQX?usp=sharing) | DAVIS240C | 5.0 | 743.6 MB |
 | [Bay](https://drive.google.com/drive/folders/1af7U1l2eKo7OiBi10kZrpcSexxDtSZqI?usp=sharing) | DAVIS240C | 5.0 | 827.7 MB |
 
-### Real-world data
+### Real-world data (with a DVXplorer, VGA resolution)
 
 | Sequence | Setup | Duration [s] | Rotation range [deg] | File size |
 | :-----| :-----| ----: | ----: | ----: |
@@ -37,12 +37,12 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 
 ### Intrinsic calibration of the event camera:
 
-- Synthetic data
+- Synthetic data:
   * [DVS128-synthetic](https://drive.google.com/file/d/1Cd_CvFuUTqtJnRkMbV2X4b-4vEC6oRmo/view?usp=sharing)
 
   * [DAVIS240C-synthetic](https://drive.google.com/file/d/1Z9i30YX0PjeOq8b8kTxdP05MXX3ForA7/view?usp=sharing)
 
-- Real-world data
+- Real-world data:
   * [DVX-motorized_mount](https://drive.google.com/file/d/1NqmTqD_S-3Ff0YsgIvEJdnzrZ4Lu0lNy/view?usp=sharing)
 
   * [DVX-handheld](https://drive.google.com/file/d/1c12Y8s3klhSWhw8D5xvoi7zOqdrMDt4m/view?usp=sharing)
@@ -51,7 +51,7 @@ Rotational motion is generated in two modes: Motorized mount (7 sequences) and H
 
 The panoramas used to generate synthetic sequences and the panoramic Images of Warped Events (IWEs) produced by CMax-SLAM are presented as below.
 
-- Playroom
+- Playroom (from [this repository](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events))
 ![imagen](images/panoramas/synth_data/flyring_room.jpg)
 ![imagen](images/iwe/synth_data/flying_room.png)
 
