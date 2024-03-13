@@ -124,6 +124,8 @@ Ms. Nan Cai (for assistance on the motorized sequences) and Mr. Yunfan Yang (for
 
 ## Citation
 
+If you use this dataset in your research, please cite it as follows:
+
 ```bibtex
 @Article{Guo24tro,
   author        = {Shuang Guo and Guillermo Gallego},
