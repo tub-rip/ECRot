@@ -1,0 +1,20 @@
+image_width: 640
+image_height: 480
+camera_name: DXA-handheld
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [588.0999081785662, 0, 339.8258855424323, 0, 593.9887179137335, 242.42516485069098, 0, 0, 1]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [-0.37962772883714485, 0.17892560312683234, -0.007389826827862441, 0.0016114593719536608, 0.0]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1, 0, 0, 0, 1, 0, 0, 0, 1]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [588.0999081785662, 0, 339.8258855424323, 0, 0, 593.9887179137335, 242.42516485069098, 0, 0, 0, 1, 0]
