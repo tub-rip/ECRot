@@ -124,7 +124,17 @@ Ms. Nan Cai (for assistance on the motorized sequences) and Mr. Yunfan Yang (for
 
 ## Publications
 
-- Coming soon...
+```bibtex
+@Article{Guo24tro,
+  author        = {Shuang Guo and Guillermo Gallego},
+  title         = {{CMax}-{SLAM}: Event-based Rotational-Motion Bundle Adjustment and {SLAM} System using Contrast Maximization},
+  journal       = tro,
+  year          = 2024,
+  volume        = {},
+  number        = {},
+  pages         = {1--20}
+}
+```
 
 ## License
 
