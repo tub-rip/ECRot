@@ -1,5 +1,5 @@
 # Event Camera Rotation Dataset (ECRot)
-https://arxiv.org/pdf/2403.08119
+
 The Event Camera Rotation Dataset (ECRot) is a VGA-resolution event camera dataset designed for the development of event-based rotational motion related algorithms. ECRot contains **ten real-world** sequences recorded with a [DVXplorer](https://inivation.com/) (640 x 480 pixels) and **six synthetic** sequences generated with a [DAVIS240C](https://inilabs.com/products/) camera model (240 x 180 pixels) and a DVS128 model.
 
 We provide all sequences in ROSbag files that contain events using [dvs_msgs/EventArray](https://github.com/uzh-rpg/rpg_dvs_ros/blob/master/dvs_msgs/msg/EventArray.msg) message types, and IMU data using [sensor_msgs/Imu](http://docs.ros.org/en/api/sensor_msgs/html/msg/Imu.html) message types respectively. The camera calibration files are provided in yaml files.
